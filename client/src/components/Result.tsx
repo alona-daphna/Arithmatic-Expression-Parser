@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Result = ({ result }: { result: number }) => {
   return (
     <>
